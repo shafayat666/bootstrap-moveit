@@ -38,7 +38,7 @@ To get started with this project, you can clone the repository and open the `ind
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/shafayat666/move-it.git
+    git clone https://github.com/shafayat666/bootstrap-moveit.git
     ```
 2. Open the `index.html` file in your preferred web browser.
 
