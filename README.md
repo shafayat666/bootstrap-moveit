@@ -13,6 +13,7 @@
 
 
 ## Demo
+You can view a live demo of the project [here](https://shafayat666.github.io/bootstrap-moveit/).  
 ![Move It Screenshot](./preview.gif)
 
 ## Technologies Used
